@@ -27,8 +27,8 @@ url: "https://MervanKanat.github.io"
 github:
   username: MervanKanat # change to your github username
 
-#twitter:
-  #username: twitter_username # change to your twitter username
+linkedin:
+  username: Mervan Kanat # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/MervanKanat # change to your twitter homepage
-    - linkedin.com/in/mervan-kanat-9085a4190 # change to your github homepage
+    - https://linkedin.com/in/mervan-kanat-9085a4190 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
