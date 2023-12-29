@@ -4,7 +4,6 @@ categories:
   - Data Science
   - Feature Engineering
 pin: true
-mermaid: true
 tags:
   - Python
   - Exploratory Data Analysis
