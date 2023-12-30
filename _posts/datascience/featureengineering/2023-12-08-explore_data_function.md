@@ -1,8 +1,7 @@
 ---
 title: "10 Python One-Liners for Efficient Data Science: Part 1"
 categories:
-[Data Science,Feature Engineering]
-pin: true
+     [Data Science,Feature Engineering]
 tags:
   - Python
   - Exploratory Data Analysis
@@ -71,7 +70,7 @@ In the fast-paced world of data science, efficiency is key. Python one-liners of
 
 ## Practical Use Case with the Tips Dataset
 
-```python
+```bash
 import pandas as pd
 import seaborn as sns
 
