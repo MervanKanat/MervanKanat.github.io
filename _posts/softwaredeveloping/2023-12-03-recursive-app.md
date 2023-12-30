@@ -13,7 +13,7 @@ math: true
 ![Recursive Application Illustration](/assets/images/recursive-app.png){: .left width="470" height="470"}
 <span style="font-size: 27px; font-style: italic;">
     Today, we will create a recursive app and learn the logic of recursive algorithms.
-    The project contains 32 recursive algorithms and is resilient to errors made by the user.
+    The project contains 32 recursive algorithms and is resilient to errors made by the user..
 </span>
 
 
