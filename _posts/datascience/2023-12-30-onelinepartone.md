@@ -1,7 +1,7 @@
 ---
-title: "10 Python One-Liners for Efficient Data Science: Part 1"
+title: "Python One-Liners for Efficient Data Science: Part 1"
 categories:
-     [Data Science,Feature Engineering]
+        [Data Science,Feature Engineering]
 tags:
   - Python
   - Exploratory Data Analysis
