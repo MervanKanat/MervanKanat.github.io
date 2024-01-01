@@ -6,9 +6,13 @@ tags:
   - Python
   - Exploratory Data Analysis
   - Data Analysis Techniques
+image:
+ 
+  path: /assets/images/mostcommen.png
+
 ---
 
-![Recursive Application Illustration](/assets/images/mostcommen.png){: width="550" height="550"}
+
 
 
 ## Introduction
