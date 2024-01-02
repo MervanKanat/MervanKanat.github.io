@@ -22,7 +22,7 @@ In the fast-paced world of data science, efficiency is key. Python one-liners of
 
 ### 1. Create a DataFrame Copy
 - **Python Code:** `df_copy = df.copy()`
-- **Description:** Creates a copy of the DataFrame to preserve the original data.
+- **Description:** Creates a copy of the DataFrame to preserve the original data..
 
 ### 2. Unique Values
 - **Python Code:** `print(df['column'].unique())`
