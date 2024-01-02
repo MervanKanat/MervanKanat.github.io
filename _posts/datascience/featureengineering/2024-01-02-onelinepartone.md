@@ -6,6 +6,7 @@ tags:
   - Python
   - Exploratory Data Analysis
   - Data Analysis Techniques
+  - Functionality
 image:
  
   path: /assets/images/mostcommenblack.png
