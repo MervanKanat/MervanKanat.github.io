@@ -10,7 +10,6 @@ tags:
 image:
  
   path: /assets/images/mostcommenblack.png
-
 ---
 
 
@@ -73,6 +72,7 @@ In the fast-paced world of data science, efficiency is key. Python one-liners of
 ## Practical Use Case with the Tips Dataset
 
 ```bash
+
 import pandas as pd
 import seaborn as sns
 import numpy as np
