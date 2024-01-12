@@ -73,7 +73,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
-      https://media.licdn.com/dms/image/C5603AQFK7TJHMCqUKA/profile-displayphoto-shrink_200_200/0/1622667805337?e=1704931200&v=beta&t=UDhC4MFHo8U-F8QT7dZjPT_E7ZpDeLS1dkm-CecvIOo
+      https://media.licdn.com/dms/image/C5603AQFK7TJHMCqUKA/profile-displayphoto-shrink_800_800/0/1622667805923?e=1710374400&v=beta&t=CpmDv_yyP-HoKGX9eVsYAoZhtcsZE6k7qTB2kHROANQ
 # boolean type, the global switch for TOC in posts.
 toc: true
 
