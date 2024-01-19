@@ -79,4 +79,3 @@ print("Fast Method Time:", time.time() - start_time)
 
 By running both methods and measuring the time taken, readers can clearly see the performance difference. The optimized method is expected to be significantly faster, especially with larger datasets, demonstrating the importance of efficient data manipulation techniques in Python.
 
-This example can serve as an effective teaching tool on your blog, highlighting both the concept and its practical impact.
