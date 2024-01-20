@@ -4,8 +4,8 @@ categories:
     [Data Science,spark]
 tags:
   - Python
-  - Exploratory Data Analysis
-  - Data Analysis Techniques
+  - Docker
+  - Pyspark
 
 image:
  
