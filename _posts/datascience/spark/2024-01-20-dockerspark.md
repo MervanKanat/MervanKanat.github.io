@@ -6,6 +6,7 @@ tags:
   - Python
   - Docker
   - Pyspark
+  - Bigdata
 
 image:
  
