@@ -4,9 +4,37 @@ order: 4
 
 ---
 
-![Recursive Application Illustration](/assets/images/aboutme.png)
-<span style="font-size: 27px; font-style: italic;">
-   Welcome to my world of Data Science! For me, data science is not just a career path but a profound passion. Each new discovery, each successful model or analysis feels like unlocking a deeper understanding of the world. I am exhilarated by deciphering complex datasets and uncovering the stories they tell. Data Science is a dynamic and innovative field that satisfies my curiosity and continually motivates me to learn more. Each new project reminds me of the powerful tool that knowledge is and how it can revolutionize solving real-world problems. Join me in this exciting journey as we explore the limitless possibilities of data together!
-</span>
+<div style="text-align: center; padding: 50px 0;">
+
+<pre style="font-family: monospace; font-size: 14px; line-height: 1.2; display: inline-block; text-align: left;">
+         /|      __
+        / |   ,-~ /
+       Y :|  //  /
+       | jj /( .^
+       >-"~"-v"
+      /       Y
+     jo  o    |
+    ( ~T~     j
+     >._-' _./
+    /   "~"  |
+   Y     _,  |
+  /| ;-"~ _  l
+ / l/ ,-"~    \
+ \//\/      .- \
+  Y        /    Y
+  l       I     !
+  ]\      _\    /"\
+ (" ~----( ~   Y.  )
+</pre>
+
+<h2 style="margin-top: 30px;">You caught the rabbit!</h2>
+
+<p style="font-size: 22px; margin-top: 20px;">
+  <a href="https://toughwing.app/" target="_blank" style="text-decoration: none; color: #4183C4;">
+    Enough theory - time to get under my wings
+  </a>
+</p>
+
+</div>
 
 
