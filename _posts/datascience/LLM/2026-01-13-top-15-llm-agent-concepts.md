@@ -1,13 +1,13 @@
 ---
 title: "Top 15 Concepts You Should Know in the LLM Agent World"
 categories:
-  - Data Science
+  - Agentic AI
 tags:
   - LLM
   - AI Agents
-  - Machine Learning
   - ReAct
   - RAG
+  - Multi-Agent Systems
 
 math: true
 image:

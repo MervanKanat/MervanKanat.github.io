@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Most Fascinating AI/ML Architectures in Finance"
 categories:
-  - Data Science
+  - Agentic AI
 tags:
   - Machine Learning
   - Finance
